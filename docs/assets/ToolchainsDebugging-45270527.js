@@ -1,0 +1,1 @@
+import{_ as o,o as e,c}from"./index-9d5daf4a.js";const n={},s={style:{"margin-top":"5%"}};function t(r,a){return e(),c("div",s," Toolchains & Cross-debugging ")}const i=o(n,[["render",t]]);export{i as default};

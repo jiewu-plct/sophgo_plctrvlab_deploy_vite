@@ -1,0 +1,1 @@
+import{_ as n,o as e,c as o}from"./index-9d5daf4a.js";const t={},c={style:{"margin-top":"5%"}};function r(s,_){return e(),o("div",c," Running on RISC-V ")}const i=n(t,[["render",r]]);export{i as default};

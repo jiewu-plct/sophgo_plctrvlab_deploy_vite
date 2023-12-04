@@ -1,9 +1,11 @@
 <script setup lang="ts">
 import { useI18n } from 'vue-i18n'
+import router from '../router/router'
 
 const { t } = useI18n()
 const enterAccess = () => {
-  console.log('apply for access')
+  // console.log('apply for access')
+  router.push("/sophon_plctrvlab_deploy_vite/documentation/access")
 }
 </script>
 

@@ -42,7 +42,7 @@
               </div>
             </el-main>
             <el-footer class="page-footer">
-              <router-link to="/documentation/getting_started" class="pagination">
+              <router-link to="/sophon_plctrvlab_deploy_vite/documentation/getting_started" class="pagination">
                 <h4>Next</h4>
                 <span>
                   Getting started
