@@ -71,33 +71,33 @@ const resetCommunityStyle = function() {
 const enterHomePage = function() {
   // console.log('1111111')
   console.log(router.currentRoute.value.path)
-  if (router.currentRoute.value.path == '/sophon_plctrvlab_deploy_vite'){
+  if (router.currentRoute.value.path == "/"){
     router.go(0)
     // location.reload()
   } else {
-    router.push("/sophon_plctrvlab_deploy_vite")
+    router.push("/")
   }
 }
 
 const enterDocPage = function() {
   // console.log('2222222')
   console.log(router.currentRoute.value.path)
-  if (router.currentRoute.value.path == '/sophon_plctrvlab_deploy_vite/documentation'){
+  if (router.currentRoute.value.path == "/documentation"){
     router.go(0)
     // location.reload()
   } else {
-    router.push("/sophon_plctrvlab_deploy_vite/documentation")
+    router.push("/documentation")
   }
 }
 
 const enterCommunityPage = function() {
   // console.log('3333333')
   console.log(router.currentRoute.value.path)
-  if (router.currentRoute.value.path == '/sophon_plctrvlab_deploy_vite/community'){
+  if (router.currentRoute.value.path == "/community"){
     router.go(0)
     // location.reload()
   } else {
-    router.push("/sophon_plctrvlab_deploy_vite/community")
+    router.push("/community")
   }
 } 
 

@@ -15,7 +15,7 @@ const { t } = useI18n()
           {{ t('documentationPage.content_1') }}
         </p>
         <u class="more-text">
-          <router-link to="/sophon_plctrvlab_deploy_vite/documentation/access" class="more-text">{{ t('documentationPage.more') }}</router-link>
+          <router-link to="/documentation/access" class="more-text">{{ t('documentationPage.more') }}</router-link>
         </u>
       </article>
       <article>
@@ -27,7 +27,7 @@ const { t } = useI18n()
           {{ t('documentationPage.content_2') }}
         </p>
         <u>
-          <router-link to="/sophon_plctrvlab_deploy_vite/documentation/getting_started" class="more-text">{{ t('documentationPage.more') }}</router-link>
+          <router-link to="/documentation/getting_started" class="more-text">{{ t('documentationPage.more') }}</router-link>
         </u>
       </article>
       <article>
@@ -39,7 +39,7 @@ const { t } = useI18n()
           {{ t('documentationPage.content_3') }}
         </p>
         <u>
-          <router-link to="/sophon_plctrvlab_deploy_vite/documentation/hardware" class="more-text">{{ t('documentationPage.more') }}</router-link>
+          <router-link to="/documentation/hardware" class="more-text">{{ t('documentationPage.more') }}</router-link>
         </u>
       </article>
       <article>
@@ -51,7 +51,7 @@ const { t } = useI18n()
           {{ t('documentationPage.content_4') }}
         </p>
         <u>
-          <router-link to="/sophon_plctrvlab_deploy_vite/documentation/running_riscv" class="more-text">{{ t('documentationPage.more') }}</router-link>
+          <router-link to="/documentation/running_riscv" class="more-text">{{ t('documentationPage.more') }}</router-link>
         </u>
       </article>
   </div>

@@ -329,14 +329,14 @@ const goToSource = function(url:string) {
               </pre>
             </el-main>
             <el-footer class="page-footer">
-              <router-link to="/sophon_plctrvlab_deploy_vite/documentation/access" class="pagination pagination-pre">
+              <router-link to="/documentation/access" class="pagination pagination-pre">
                 <h4>Previous</h4>
                 <span>
                   <el-icon><Back /></el-icon>
                   Applying for access
                 </span>
               </router-link>
-              <router-link to="/sophon_plctrvlab_deploy_vite/documentation/hardware" class="pagination pagination-next">
+              <router-link to="/documentation/hardware" class="pagination pagination-next">
                 <h4>Next</h4>
                 <span>
                   Testbed hardware
