@@ -40,6 +40,7 @@ const routes: Array<RouteRecordRaw> = [
 ]
 
 const router = createRouter({
+    base: '/sophon_plctrvlab_deploy_vite',
     history: createWebHistory(),
     routes,
 })
