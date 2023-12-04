@@ -3,7 +3,7 @@
 
 <template>
   <div style="margin-top: 5%;">
-  community
+  community 123456
   </div>
 </template>
 
