@@ -7,7 +7,7 @@ import { resolve } from 'path'
 
 // https://vitejs.dev/config/
 export default defineConfig({
-  base: "/sophon_plctrvlab_deploy_vite/",
+  base: "/sophgo_plctrvlab_deploy_vite/",
   plugins: [
     vue(),
     AutoImport({

@@ -9,7 +9,7 @@ const ru_RU = {
       sub_title:  "Среда тестирования RISC-V для научных кодов и кодов обработки данных"
     },
     language: "Язык",
-    footer: "При поддержке Sophon и PLCT",
+    footer: "При поддержке Sophgo и PLCT",
     homePage: {
       button: "Подать заявку на доступ",
       title_1: "Что такое RISC-V?",

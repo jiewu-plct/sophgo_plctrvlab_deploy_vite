@@ -9,7 +9,7 @@ const ko_KR = {
       sub_title:  "과학 및 데이터 과학 코드를 위한 RISC-V 테스트 환경"
     },
     language: "언어",
-    footer: "Sophon & PLCT 제공",
+    footer: "Sophgo & PLCT 제공",
     homePage: {
       button: "액세스 신청",
       title_1: "RISC-V란 무엇입니까?",

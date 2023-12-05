@@ -8,11 +8,11 @@ const { locale } = useI18n()
 const isActiveHome = ref(false);
 const isActiveDoc = ref(false);
 const isActiveCommunity = ref(false);
-const selectedValue = ref('Traditional Chinese')
+const selectedValue = ref('Simplified Chinese')
 const languageOptions = [
   {
-    value: 'Traditional Chinese',
-    label: 'Traditional Chinese'
+    value: 'Simplified Chinese',
+    label: 'Simplified Chinese'
   },
   {
     value: 'English',
@@ -104,7 +104,7 @@ const enterCommunityPage = function() {
 const changeLanguage = () => {
   console.log('selectedValue', selectedValue.value)
   switch(selectedValue.value) {
-    case "Traditional Chinese": {
+    case "Simplified Chinese": {
       locale.value = "zh_CN"
       localStorage.setItem('lang', locale.value)
       break

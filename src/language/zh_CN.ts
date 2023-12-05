@@ -5,11 +5,11 @@ const zh_CN = {
     community: "社区"
   },
   title: {
-    main_title: "Sophon 和 PLCT RISC-V 测试台",
+    main_title: "Sophgo 和 PLCT RISC-V 测试台",
     sub_title:  "用于科学和数据科学代码的 RISC-V 测试环境"
   },
   language: "语言",
-  footer: "由 Sophon 和 PLCT 提供支持",
+  footer: "由 Sophgo 和 PLCT 提供支持",
   homePage: {
     button: "申请访问",
     title_1: "什么是 RISC-V？",

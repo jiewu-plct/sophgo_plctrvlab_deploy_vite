@@ -5,11 +5,11 @@ const en_US = {
     community: "Community"
   },
   title: {
-    main_title: "Sophon & PLCT RISC-V Testbed",
+    main_title: "Sophgo & PLCT RISC-V Testbed",
     sub_title:  "A RISC-V test environment for scientific and data-science codes"
   },
   language: "Language",
-  footer: "Powered by Sophon & PLCT",
+  footer: "Powered by Sophgo & PLCT",
   homePage: {
     button: "Apply for access",
     title_1: "What is RISC-V?",
